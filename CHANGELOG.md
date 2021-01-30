@@ -1,5 +1,13 @@
 # Release Notes
 
+## v4.0.x-dev (2021-01-30)
+
+### Added
+
+- Added support for Laravel 6.
+
+# Original Laravel/Cashier-Braintree Release Notes
+
 ## [Unreleased](https://github.com/laravel/cashier-braintree/compare/v3.1.2...3.0)
 
 
